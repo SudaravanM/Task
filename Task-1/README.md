@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form
 
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro component with sign up form coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/v1559829910/Challenges/mnmpkjsbvur3xvrydf66.jpg)
 
 ## Welcome! 👋
 
